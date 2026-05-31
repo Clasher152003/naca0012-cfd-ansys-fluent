@@ -123,7 +123,6 @@ At 0 degrees angle of attack, the NACA 0012 is a symmetric profile and theoretic
 Aerospace Engineering Graduate (2025)  
 Simulation Engineer | CFD & FEA | ANSYS Fluent | MATLAB  
 📧 shekhawatravinder152003@gmail.com  
-📍 Delhi NCR, India
 
 ---
 
